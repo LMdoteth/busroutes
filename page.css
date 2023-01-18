@@ -405,6 +405,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.page-link {
+  display: contents;
+}
 .page-image10 {
   top: 0px;
   left: 0px;
@@ -414,6 +417,7 @@
   height: 100%;
   position: absolute;
   object-fit: cover;
+  text-decoration: none;
 }
 .page-container12 {
   width: 100%;
